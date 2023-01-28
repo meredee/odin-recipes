@@ -1,0 +1,1 @@
+My first project for TOP is to build a basic recipe website to practice my HTML skills: create a new repository on GitHub, move repository to local machine, create directories and files through the command line, build an index file, create pages that include headings, images with alt text, and links.
